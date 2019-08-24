@@ -1,0 +1,31 @@
+.header{
+    background-color: #000000;
+	height: 50px;
+}
+.section{
+    background-color: white;
+	height:500px;
+}
+.footer{
+    background-color: blanchedalmond;
+	height: 80px;
+	line-height: 25px;
+	text-align: center;
+	display: block;
+}
+	ul{
+		list-style: none;
+		color: white;
+		display: flex;
+		font-size: 14px;
+		font-weight: 400;
+	}
+	ul>li{
+		margin-left: 18%;
+		line-height: 40px;
+		text-align: center;
+		display: block;
+	}
+body{
+	background-color: lightgrey;
+}
